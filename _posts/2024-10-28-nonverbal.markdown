@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Non-verbal communication"
-date:   2024-08-29 22:18:00 -0600
+date:   2024-10-28 22:18:00 -0600
 categories: blog
 ---
 

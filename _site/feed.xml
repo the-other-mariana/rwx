@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/rwx/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/rwx/" rel="alternate" type="text/html" /><updated>2025-07-24T11:45:21-06:00</updated><id>http://localhost:4000/rwx/feed.xml</id><title type="html">rwx</title><subtitle>Full access rights to thoughts.</subtitle><entry><title type="html">Loss means a lot of things</title><link href="http://localhost:4000/rwx/blog/2025/07/24/loss.html" rel="alternate" type="text/html" title="Loss means a lot of things" /><published>2025-07-24T11:15:20-06:00</published><updated>2025-07-24T11:15:20-06:00</updated><id>http://localhost:4000/rwx/blog/2025/07/24/loss</id><content type="html" xml:base="http://localhost:4000/rwx/blog/2025/07/24/loss.html"><![CDATA[<p>Loss can mean a lot of things. I carry a small notebook recently, because it was the only way I felt like I would cope. I jot down small thoughts in it, and I carry it everywhere. It’s helped enormously, I’m not sure why. I try to give it more meaning but maybe it’s just a little self-centered pleasure in documenting what <em>you</em> go through. Seeing that it matters, that the pages accumulate. That something is coming out of it.</p>
+
+<p>Anyway. Loss. I have noticed in this notebook how my pain has changed. The stages I have seen:</p>
+
+<ol>
+  <li>
+    <p>Muting it. I started by minimizing it. “It was nothing, really”.</p>
+  </li>
+  <li>
+    <p>Replacement. Very similar to number 1 but this is more like “I can find something better”.</p>
+  </li>
+  <li>
+    <p>Regret. “I could have done better”. I should have done this, or that.</p>
+  </li>
+  <li>
+    <p>Mere pain. Lots of crying. Mixed feelings, but overall incomprehensible sadness. Self-depricating feelings. “I wasn’t enough”.</p>
+  </li>
+  <li>
+    <p>Acceptance. “It was better this way”.</p>
+  </li>
+</ol>
+
+<p>Who knows. That’s what I wrote while in pain. I still am. So stages will be added. I must say that the toughest part is not number 1, which goes against logic since those are days after, and it’s very fresh. The hardest part is 4 and 5. Number 5 is tough. Incomprehensible. The best solution is often times not the most comfortable or even <em>logic</em>.</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Loss can mean a lot of things. I carry a small notebook recently, because it was the only way I felt like I would cope. I jot down small thoughts in it, and I carry it everywhere. It’s helped enormously, I’m not sure why. I try to give it more meaning but maybe it’s just a little self-centered pleasure in documenting what you go through. Seeing that it matters, that the pages accumulate. That something is coming out of it.]]></summary></entry><entry><title type="html">Fear</title><link href="http://localhost:4000/rwx/blog/2024/08/29/fear.html" rel="alternate" type="text/html" title="Fear" /><published>2024-08-29T18:15:20-06:00</published><updated>2024-08-29T18:15:20-06:00</updated><id>http://localhost:4000/rwx/blog/2024/08/29/fear</id><content type="html" xml:base="http://localhost:4000/rwx/blog/2024/08/29/fear.html"><![CDATA[<p>I have a very strange fear. I always fear that if I show any difference in my mood to any of my friends they might catch it as inconsistency, and it will make them lose trust in me.</p>
+
+<p>Also, why am I feeling like the use of AI feels unethical? It is starting to feel like eating junk food, or drinking alcohol, or smoking. It has some kind of bitter taste. Some shame. Why? Is it our obsession with our species, aka our survival instinct, that has made the “humanity over everything” an unquestionable value? Why do I need to always prioritize human connection?</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[I have a very strange fear. I always fear that if I show any difference in my mood to any of my friends they might catch it as inconsistency, and it will make them lose trust in me.]]></summary></entry><entry><title type="html">About This Blog</title><link href="http://localhost:4000/rwx/jekyll/update/2023/01/27/welcome-to-jekyll.html" rel="alternate" type="text/html" title="About This Blog" /><published>2023-01-27T13:22:12-06:00</published><updated>2023-01-27T13:22:12-06:00</updated><id>http://localhost:4000/rwx/jekyll/update/2023/01/27/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/rwx/jekyll/update/2023/01/27/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>To add new posts, simply add a file in the <code class="highlighter-rouge">_posts</code> directory that follows the convention <code class="highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
